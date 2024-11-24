@@ -1,5 +1,6 @@
 from selene import browser, be
 
+
 class MainPage:
     def sign_in_desktop(self):
         browser.element(".HeaderMenu-link--sign-up").click()

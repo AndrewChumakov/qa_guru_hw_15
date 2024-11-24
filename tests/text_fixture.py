@@ -2,7 +2,6 @@
 Сделайте разные фикстуры для каждого теста, которые выставят размеры окна браузера
 """
 
-
 from selene import browser
 
 from pages.main_page import MainPage
